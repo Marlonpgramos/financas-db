@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "financas-db",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "762109f8-04d7-4ca6-8a69-5180c0f63919",
+      "database_name": "long-mouse-6320-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
